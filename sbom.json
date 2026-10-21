@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-20T22:01:41Z",
+  "generated": "2026-10-21T13:35:34Z",
   "image": "cadcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.8.0",
+      "app_version": "0.10.0",
       "arch": "amd64",
-      "generated": "2026-10-20T22:01:00Z",
+      "generated": "2026-10-21T13:34:59Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
