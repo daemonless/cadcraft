@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-11T22:40:15Z",
+  "generated": "2026-11-12T08:46:16Z",
   "image": "cadcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.20.0",
+      "app_version": "0.20.1",
       "arch": "aarch64",
-      "generated": "2026-11-11T22:39:27Z",
+      "generated": "2026-11-12T08:45:40Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
